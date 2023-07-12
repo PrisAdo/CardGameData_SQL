@@ -1,0 +1,6 @@
+COPY chapter_a FROM '[filepath]'
+WITH DELIMITER ',' CSV HEADER
+WHERE ID >=25 'first id not in database'
+
+SELECT * FROM chapter_a
+ORDER BY id;
