@@ -1,0 +1,4 @@
+select distinct character, count(*)/(select cast(count(*) as float) total_cards
+      from chapter_a)*100 percentage_of_cards
+from chapter_a
+group by character;

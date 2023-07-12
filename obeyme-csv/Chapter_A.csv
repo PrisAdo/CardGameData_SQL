@@ -1,0 +1,25 @@
+Id,Card,Character_Id,Sin,Rarirty_Id,Odds
+1,The Avatar of Pride/Lucifer,1,Pride,1,0.25
+2,The Avatar of Greed/Mammon,2,Greed,1,0.25
+3,The Avatar of Envy/Leviathan,3,Envy,1,0.25
+4,The Avatar of Wrath/Satan,4,Wrath,1,0.25
+5,The Avatar of Lust/Asmodeus,5,Lust,1,0.25
+6,The Avatar of Gluttony/Beelzebub,6,Gluttony,1,0.25
+7,The Avatar of Sloth/Belphegor,7,Sloth,1,0.25
+8,The Seven Apples/Diavolo,8,Pride,1,0.25
+9,Believer/Barbatos,9,Greed,1,0.25
+10,Past Glory/Luke,10,Envy,1,0.25
+11,Memorable World/Simeon,11,Wrath,1,0.25
+12,Unforgettable Past/Solomon,12,Lust,1,0.25
+13,Trust and Poison/Lucifer,1,Greed,2,0.75
+14,Troublemaker/Mammon,2,Envy,2,0.75
+15,Going Outside Sucks!/Leviathan,3,Wrath,2,0.75
+16,New Emotions/Satan,4,Lust,2,0.75
+17,Loveable Me/Asmodeus,5,Gluttony,2,0.75
+18,Growing Fast/Beelzebub,6,Sloth,2,0.75
+19,Let Me Sleep!/Belphegor,7,Pride,2,0.75
+20,Escape/Diavolo,8,Greed,2,0.75
+21,The Sweet Demon/Barbatos,9,Envy,2,0.75
+22,The Angel's Future/Luke,10,Wrath,2,0.75
+23,Coffee Someday/Simeon,11,Lust,2,0.75
+24,The Sorcerer's Lesson/Solomon,12,Pride,2,0.75
