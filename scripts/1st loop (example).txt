@@ -1,0 +1,10 @@
+do $$
+declare counter integer := 13;
+begin
+while counter<=24 loop
+  UPDATE chapter_a
+  set character_id = counter - 12
+  where id = counter;
+  counter := counter+1;
+end loop;
+end$$;
