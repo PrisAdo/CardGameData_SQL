@@ -1,0 +1,7 @@
+SELECT sin, (COUNT(*)/(SELECT CAST(COUNT(*) AS FLOAT) total_cards
+	  				  FROM othercards))*100 percent_of_cards
+FROM (SELECT * 
+	  FROM othercards 
+	  WHERE "from" IN('Lessons', 'Login', 'Mission')
+	 )Table01
+GROUP BY sin;
