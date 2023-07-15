@@ -1,0 +1,193 @@
+id,card,character_id,sin,rarity_id,odds
+1,The Avatar of Pride,1,Pride,1,0.25
+2,The Avatar of Greed,2,Greed,1,0.25
+3,The Avatar of Envy,3,Envy,1,0.25
+4,The Avatar of Wrath,4,Wrath,1,0.25
+5,The Avatar of Lust,5,Lust,1,0.25
+6,The Avatar of Gluttony,6,Gluttony,1,0.25
+7,The Avatar of Sloth,7,Sloth,1,0.25
+8,The Seven Apples,8,Pride,1,0.25
+9,Believer,9,Greed,1,0.25
+10,Past Glory,10,Envy,1,0.25
+11,Memorable World,11,Wrath,1,0.25
+12,Unforgettable Past,12,Lust,1,0.25
+13,Trust and Poison,1,Greed,2,0.75
+14,Troublemaker,2,Envy,2,0.75
+15,Going Outside Sucks!,3,Wrath,2,0.75
+16,New Emotions,4,Lust,2,0.75
+17,Loveable Me,5,Gluttony,2,0.75
+18,Growing Fast,6,Sloth,2,0.75
+19,Let Me Sleep!,7,Pride,2,0.75
+20,Escape,8,Greed,2,0.75
+21,The Sweet Demon,9,Envy,2,0.75
+22,The Angel's Future,10,Wrath,2,0.75
+23,Coffee Someday,11,Lust,2,0.75
+24,The Sorcerer's Lesson,12,Pride,2,0.75
+25,The Mighty First-Born,1,Pride,3,0.35
+26,The Mighty First-Born,1,Greed,3,0.35
+27,The Mighty First-Born,1,Envy,3,0.35
+28,The Mighty First-Born,1,Wrath,3,0.35
+29,The Mighty First-Born,1,Lust,3,0.35
+30,The Mighty First-Born,1,Gluttony,3,0.35
+31,The Mighty First-Born,1,Sloth,3,0.35
+32,The Scummy Second-Born,2,Pride,3,0.35
+33,The Scummy Second-Born,2,Greed,3,0.35
+34,The Scummy Second-Born,2,Envy,3,0.35
+35,The Scummy Second-Born,2,Wrath,3,0.35
+36,The Scummy Second-Born,2,Lust,3,0.35
+37,The Scummy Second-Born,2,Gluttony,3,0.35
+38,The Scummy Second-Born,2,Sloth,3,0.35
+39,The Otaku Third-Born,3,Pride,3,0.35
+40,The Otaku Third-Born,3,Greed,3,0.35
+41,The Otaku Third-Born,3,Envy,3,0.35
+42,The Otaku Third-Born,3,Wrath,3,0.35
+43,The Otaku Third-Born,3,Lust,3,0.35
+44,The Otaku Third-Born,3,Gluttony,3,0.35
+45,The Otaku Third-Born,3,Sloth,3,0.35
+46,The Cynical Fourth-Born,4,Pride,3,0.35
+47,The Cynical Fourth-Born,4,Greed,3,0.35
+48,The Cynical Fourth-Born,4,Envy,3,0.35
+49,The Cynical Fourth-Born,4,Wrath,3,0.35
+50,The Cynical Fourth-Born,4,Lust,3,0.35
+51,The Cynical Fourth-Born,4,Gluttony,3,0.35
+52,The Cynical Fourth-Born,4,Sloth,3,0.35
+53,The Narcissistic Fifth-Born,5,Pride,3,0.35
+54,The Narcissistic Fifth-Born,5,Greed,3,0.35
+55,The Narcissistic Fifth-Born,5,Envy,3,0.35
+56,The Narcissistic Fifth-Born,5,Wrath,3,0.35
+57,The Narcissistic Fifth-Born,5,Lust,3,0.35
+58,The Narcissistic Fifth-Born,5,Gluttony,3,0.35
+59,The Narcissistic Fifth-Born,5,Sloth,3,0.35
+60,The Famished Sixth-Born,6,Pride,3,0.35
+61,The Famished Sixth-Born,6,Greed,3,0.35
+62,The Famished Sixth-Born,6,Envy,3,0.35
+63,The Famished Sixth-Born,6,Wrath,3,0.35
+64,The Famished Sixth-Born,6,Lust,3,0.35
+65,The Famished Sixth-Born,6,Gluttony,3,0.35
+66,The Famished Sixth-Born,6,Sloth,3,0.35
+67,Catnapping Seventh-Born,7,Pride,3,0.35
+68,Catnapping Seventh-Born,7,Greed,3,0.35
+69,Catnapping Seventh-Born,7,Envy,3,0.35
+70,Catnapping Seventh-Born,7,Wrath,3,0.35
+71,Catnapping Seventh-Born,7,Lust,3,0.35
+72,Catnapping Seventh-Born,7,Gluttony,3,0.35
+73,Catnapping Seventh-Born,7,Sloth,3,0.35
+74,Prince of the Devildom,8,Pride,3,0.35
+75,Prince of the Devildom,8,Greed,3,0.35
+76,Prince of the Devildom,8,Envy,3,0.35
+77,Prince of the Devildom,8,Wrath,3,0.35
+78,Prince of the Devildom,8,Lust,3,0.35
+79,Prince of the Devildom,8,Gluttony,3,0.35
+80,Prince of the Devildom,8,Sloth,3,0.35
+81,The Perfect Butler,9,Pride,3,0.35
+82,The Perfect Butler,9,Greed,3,0.35
+83,The Perfect Butler,9,Envy,3,0.35
+84,The Perfect Butler,9,Wrath,3,0.35
+85,The Perfect Butler,9,Lust,3,0.35
+86,The Perfect Butler,9,Gluttony,3,0.35
+87,The Perfect Butler,9,Sloth,3,0.35
+88,The Pure Chihuahua,10,Pride,3,0.35
+89,The Pure Chihuahua,10,Greed,3,0.35
+90,The Pure Chihuahua,10,Envy,3,0.35
+91,The Pure Chihuahua,10,Wrath,3,0.35
+92,The Pure Chihuahua,10,Lust,3,0.35
+93,The Pure Chihuahua,10,Gluttony,3,0.35
+94,The Pure Chihuahua,10,Sloth,3,0.35
+95,Conscience of the World,11,Pride,3,0.35
+96,Conscience of the World,11,Greed,3,0.35
+97,Conscience of the World,11,Envy,3,0.35
+98,Conscience of the World,11,Wrath,3,0.35
+99,Conscience of the World,11,Lust,3,0.35
+100,Conscience of the World,11,Gluttony,3,0.35
+101,Conscience of the World,11,Sloth,3,0.35
+102,The Strongest Sorcerer,12,Pride,3,0.35
+103,The Strongest Sorcerer,12,Greed,3,0.35
+104,The Strongest Sorcerer,12,Envy,3,0.35
+105,The Strongest Sorcerer,12,Wrath,3,0.35
+106,The Strongest Sorcerer,12,Lust,3,0.35
+107,The Strongest Sorcerer,12,Gluttony,3,0.35
+108,The Strongest Sorcerer,12,Sloth,3,0.35
+109,First-Born [Casual] ,1,Pride,4,0.69
+110,First-Born [Casual] ,1,Greed,4,0.69
+111,First-Born [Casual] ,1,Envy,4,0.69
+112,First-Born [Casual] ,1,Wrath,4,0.69
+113,First-Born [Casual] ,1,Lust,4,0.69
+114,First-Born [Casual] ,1,Gluttony,4,0.69
+115,First-Born [Casual] ,1,Sloth,4,0.69
+116,Second-Born [Casual],2,Pride,4,0.69
+117,Second-Born [Casual],2,Greed,4,0.69
+118,Second-Born [Casual],2,Envy,4,0.69
+119,Second-Born [Casual],2,Wrath,4,0.69
+120,Second-Born [Casual],2,Lust,4,0.69
+121,Second-Born [Casual],2,Gluttony,4,0.69
+122,Second-Born [Casual],2,Sloth,4,0.69
+123,Third-Born [Casual],3,Pride,4,0.69
+124,Third-Born [Casual],3,Greed,4,0.69
+125,Third-Born [Casual],3,Envy,4,0.69
+126,Third-Born [Casual],3,Wrath,4,0.69
+127,Third-Born [Casual],3,Lust,4,0.69
+128,Third-Born [Casual],3,Gluttony,4,0.69
+129,Third-Born [Casual],3,Sloth,4,0.69
+130,Fourth-Born [Casual],4,Pride,4,0.69
+131,Fourth-Born [Casual],4,Greed,4,0.69
+132,Fourth-Born [Casual],4,Envy,4,0.69
+133,Fourth-Born [Casual],4,Wrath,4,0.69
+134,Fourth-Born [Casual],4,Lust,4,0.69
+135,Fourth-Born [Casual],4,Gluttony,4,0.69
+136,Fourth-Born [Casual],4,Sloth,4,0.69
+137,Fifth-Born [Casual],5,Pride,4,0.69
+138,Fifth-Born [Casual],5,Greed,4,0.69
+139,Fifth-Born [Casual],5,Envy,4,0.69
+140,Fifth-Born [Casual],5,Wrath,4,0.69
+141,Fifth-Born [Casual],5,Lust,4,0.69
+142,Fifth-Born [Casual],5,Gluttony,4,0.69
+143,Fifth-Born [Casual],5,Sloth,4,0.69
+144,Sixth-Born [Casual],6,Pride,4,0.69
+145,Sixth-Born [Casual],6,Greed,4,0.69
+146,Sixth-Born [Casual],6,Envy,4,0.69
+147,Sixth-Born [Casual],6,Wrath,4,0.69
+148,Sixth-Born [Casual],6,Lust,4,0.69
+149,Sixth-Born [Casual],6,Gluttony,4,0.69
+150,Sixth-Born [Casual],6,Sloth,4,0.69
+151,Seventh-Born [Casual],7,Pride,4,0.69
+152,Seventh-Born [Casual],7,Greed,4,0.69
+153,Seventh-Born [Casual],7,Envy,4,0.69
+154,Seventh-Born [Casual],7,Wrath,4,0.69
+155,Seventh-Born [Casual],7,Lust,4,0.69
+156,Seventh-Born [Casual],7,Gluttony,4,0.69
+157,Seventh-Born [Casual],7,Sloth,4,0.69
+158,Prince [Casual],8,Pride,4,0.69
+159,Prince [Casual],8,Greed,4,0.69
+160,Prince [Casual],8,Envy,4,0.69
+161,Prince [Casual],8,Wrath,4,0.69
+162,Prince [Casual],8,Lust,4,0.69
+163,Prince [Casual],8,Gluttony,4,0.69
+164,Prince [Casual],8,Sloth,4,0.69
+165,Butler [Casual],9,Pride,4,0.69
+166,Butler [Casual],9,Greed,4,0.69
+167,Butler [Casual],9,Envy,4,0.69
+168,Butler [Casual],9,Wrath,4,0.69
+169,Butler [Casual],9,Lust,4,0.69
+170,Butler [Casual],9,Gluttony,4,0.69
+171,Butler [Casual],9,Sloth,4,0.69
+172,Chihuahua,10,Pride,4,0.69
+173,Chihuahua,10,Greed,4,0.69
+174,Chihuahua,10,Envy,4,0.69
+175,Chihuahua,10,Wrath,4,0.69
+176,Chihuahua,10,Lust,4,0.69
+177,Chihuahua,10,Gluttony,4,0.69
+178,Chihuahua,10,Sloth,4,0.69
+179,World [Casual],11,Pride,4,0.69
+180,World [Casual],11,Greed,4,0.69
+181,World [Casual],11,Envy,4,0.69
+182,World [Casual],11,Wrath,4,0.69
+183,World [Casual],11,Lust,4,0.69
+184,World [Casual],11,Gluttony,4,0.69
+185,World [Casual],11,Sloth,4,0.69
+186,Sorcerer [Casual],12,Pride,4,0.69
+187,Sorcerer [Casual],12,Greed,4,0.69
+188,Sorcerer [Casual],12,Envy,4,0.69
+189,Sorcerer [Casual],12,Wrath,4,0.69
+190,Sorcerer [Casual],12,Lust,4,0.69
+191,Sorcerer [Casual],12,Gluttony,4,0.69
+192,Sorcerer [Casual],12,Sloth,4,0.69
